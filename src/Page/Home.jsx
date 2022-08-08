@@ -6,6 +6,7 @@ import Service2 from "../Components/Service2";
 import About from "../Components/About";
 import Team from "../Components/Team";
 import Contact from "../Components/Contact";
+import Footer from "../Components/Footer";
 
 function Home() {
   return (
@@ -17,6 +18,7 @@ function Home() {
         <About />
         <Team />
         <Contact />
+        <Footer />
       </div>
       
     </>

@@ -43,7 +43,7 @@ const Contact = ({id , setContactId}) => {
   
 
   return (
-    <div className="bg-[#00081E] py-[100px] flex justify-center">
+    <div className="bg-[#00081E] py-[100px] flex justify-center text-white">
       <div className="flex flex-col w-[80%]">
         <span className="text-white text-[48px] font-bold text-center ">
           CONTACT US
